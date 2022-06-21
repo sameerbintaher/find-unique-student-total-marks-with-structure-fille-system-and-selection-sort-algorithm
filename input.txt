@@ -1,12 +1,12 @@
 11
-Sameer 112 90
-Mamun 113 89
-Rakib 114 88
-Sameer 112 92
-Mamun 113 90
-Rakib 114 89
-Sakib 115 88
-Mamun 113 92
-Sakib 115 90
-Sameer 112 91
-Rakib 115 90
+Rakib 119 90
+Sakib 120 91
+Mamun 121 89
+Sameer 122 87
+Jishan 123 92
+Sakib 120 91
+Mamun 121 89
+Sameer 122 87
+Jishan 123 92
+Parves 124 97
+Sameer 122 87
